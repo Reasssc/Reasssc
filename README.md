@@ -1,17 +1,9 @@
 <h1 align="center">Olá, eu sou o Reasssc 👋</h1>
 <p align="center">
   <b>Engenheiro de dados</b> · dbt · BigQuery · GCP · Airflow · Python<br>
-  Pipelines de dados confiáveis e automação do que dá trabalho repetido.
 </p>
 
 ---
-
-### 🗓️ No dia a dia
-
-- **Reviso PRs de dados e de IA**: transformações dbt, workflows de release e APIs de agentes sobre o lakehouse
-- **Automatizo a própria revisão**: uma skill com vários agentes revisores (arquitetura, software, dados, segurança, SRE) que monta uma página com as perguntas certas para cada PR
-- **Cuido do CI/CD de dados**: versionamento com semantic-release, validação de projeto dbt e deploy de DAGs no Composer
-- **Treino todo dia**: desafios diários de engenharia e arquitetura de dados e software
 
 ### 🛠️ Ferramentas
 
